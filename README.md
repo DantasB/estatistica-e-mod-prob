@@ -8,10 +8,7 @@
    * [About](#about)
    * [Requirements](#requirements)
    * [How to use](#how-to-use)
-      * [Bot creation](#bot-creation)
       * [Setting up Program](#program-setup)
-      * [Commands](#commands)
-   * [To get introduced](#to-get-introduced)
    * [Technologies](#technologies)
 <!--te-->
 
