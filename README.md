@@ -26,10 +26,10 @@ To run this repository by yourself you will need to install python3 in your mach
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/DantasB/estatistica-e-mod-prob>
+$ git clone <https://github.com/DantasB/statistics-and-probabilistic-models>
 
 # Access the project page on your terminal
-$ cd estatistica-e-mod-prob
+$ cd statistics-and-probabilistic-models
 
 # Set the bash script permission to executable
 $ chmod +x runner
