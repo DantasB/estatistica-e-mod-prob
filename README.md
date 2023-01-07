@@ -32,7 +32,7 @@ $ git clone <https://github.com/DantasB/statistics-and-probabilistic-models>
 $ cd statistics-and-probabilistic-models
 
 # Set the bash script permission to executable
-$ chmod +x runner
+$ chmod +x main.sh
 
 # Execute the main program
 $ ./main.sh
